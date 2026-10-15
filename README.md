@@ -19,8 +19,7 @@
 
 **Transforming supply chain data into operational visibility, risk intelligence, and actionable business insights.**
 
-[View Repository](https://github.com/karthymani58/Supply-chain-control-tower) · [View Excel Workbook](https://github.com/karthymani58/Supply-chain-control-tower/blob/main/Supply%20chain%20Working.xlsx)
-
+[View Repository](https://github.com/karthymani58/Supply-chain-control-tower) · [View Excel Workbook](https://github.com/karthymani58/Supply-chain-control-tower/blob/main/Supply%20chain%20Working.xlsx) 
 </div>
 
 ---
